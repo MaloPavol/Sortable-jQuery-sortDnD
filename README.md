@@ -1,7 +1,7 @@
 # sortDnD
 Web-based drag-and-drop UI to sort and save data in a database processed by a server (PHP, SQL, jQuery).
 
-<img src="images/jQuery_sortDnDv2.gif" width=670px>
+<img src="images/jQuery_sortDnDv2.gif">
 
 ## Concept 
 The web-browser requests data from the server on the website load; after that the server sends query to the SQL database and echoes the data back to the client, so it can be displayed in the user's web-browser.
