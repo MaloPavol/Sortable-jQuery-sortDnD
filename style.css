@@ -1,0 +1,19 @@
+html{
+    font-family: Verdana,sans-serif;
+}
+
+.sortedListItem{
+    border-color: #000!important;
+    border-style: solid;
+    border: 1px;
+}
+
+#sortable, #ranking{
+    float: left;
+    list-style-type: none;  
+}
+
+#log{
+    float: left;
+    font-size: 11px;
+}
